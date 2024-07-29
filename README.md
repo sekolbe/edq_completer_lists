@@ -1,0 +1,2 @@
+# EdQ-Multi-year-completer-list
+Script preparing and combining annual lists of program completers into a single file for analysis. For reasons beyond EdQ's control, the file layout changes each year so this preparation gets all years of data into a consistent format.
